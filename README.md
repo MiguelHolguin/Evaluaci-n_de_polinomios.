@@ -47,8 +47,6 @@ Este algoritmo utiliza la factorización del polinomio para reducir el número d
 
 **Complejidad teórica**: O(n), donde n es el grado del polinomio. El método requiere exactamente n multiplicaciones y n sumas.
 
-## Resultados experimentales y gráfica comparativa
-
 ## Análisis de resultados
 Los experimentos confirman la diferencia teórica entre ambos métodos:
 
