@@ -5,7 +5,7 @@ Tarea para la materia de matemáticas discretas en la que se comparan distintas 
 ## Descripción
 Este proyecto implementa y compara dos métodos diferentes para evaluar polinomios: el método tradicional y el método de Horner. El objetivo es analizar las diferencias de rendimiento entre ambos algoritmos para polinomios de diferentes grados.
 
-## Autor(a)
+## Autor
 Miguel Angel Nuñez Holguin-
 
 ## Requisitos del sistema
